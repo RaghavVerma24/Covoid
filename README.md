@@ -27,4 +27,4 @@ We are proud of creating our first ever game in Unity and C#. As well we went ab
 During the designing and development of Covoid we learned how to use piskel to create animated sprites, create an enemy with AI their integration, custom player movement scripts, using A* algorithm to make pathfinding scripts for enemies and most importantly getting familiar and use Unity for the first time.
 
 ## What's next for Covoid
-Next steps for Covoid is to add functionality where the user will have lifes and a timed run where the objective must be completed or the user loses the game. As well we hope to make our game available to everyone so we can educate the youth about how as a community we can keep everyone safe
+Next steps for Covoid is to add functionality where the user will have lifes and a timed run where the objective must be completed or the user loses the game. As well we hope to make our game available to everyone so we can educate the youth about how as a community we can keep everyone safe.
