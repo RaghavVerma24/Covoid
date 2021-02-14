@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: cbf1c06b481987c4b9c035a0619d12a8
+  - enabled: 1
+    path: Assets/Covid Pre.unity
+    guid: b1160a7dc572e6240be2f79ce7d4c8c3
+  - enabled: 1
+    path: Assets/Platformer1.unity
+    guid: d54690b90512f294c94bc5f67f3b86d5
+  - enabled: 1
+    path: Assets/Covid Pre 2.unity
+    guid: 1bb5d725188421147994fd3413b24921
+  - enabled: 1
+    path: Assets/Platformer 2.unity
+    guid: 7c20cab89c871174b97603fde2956e8d
+  - enabled: 1
+    path: Assets/Covid Pre 3.unity
+    guid: d6bd1d5ed54e275459f719d13db3be74
+  - enabled: 1
+    path: Assets/Platformer 3.unity
+    guid: 466c5949942e34747a9fbf782078fa6a
+  m_configObjects: {}
